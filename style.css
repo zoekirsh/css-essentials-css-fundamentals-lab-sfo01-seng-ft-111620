@@ -1,5 +1,34 @@
+header {
+  text-align: center;
+}
+
 body {
   width: 100%;
   height: 100%;
   margin: 0;
 }
+
+nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  color: #4D004D;
+  background-color: #C5A4A4;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 900px;
+}
+
+figcaption {
+  text-align: center;
+  font-size: small;
+}
+
+#featured-property p {
+  width: 800px;
+  text-align: center;
+}
+
